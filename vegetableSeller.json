@@ -1,0 +1,35 @@
+{
+"vegetableSeller": [{
+			"name" : "RAJESH",
+			"location": "DELHI",
+			"rating": "4",
+      "photo" : "https://github.com/Nikthakur09/Example/blob/main/LA%20DE%20CASPEL.jpg"
+		},
+		{
+			"name" : "HARI OM",
+			"location": "DELHI",
+			"rating": "3",
+      "photo" : "https://github.com/Nikthakur09/Example/blob/main/VEG2.jpg"
+		},
+		{
+			"name" : "RAMESH",
+			"location": "GHAZIABAD",
+			"rating": "3",
+      "photo" : "https://github.com/Nikthakur09/Example/blob/main/VEG3.jpg"
+		},
+		{
+			"name" : "SURESH",
+			"location": "GHAZIABAD",
+			"rating": "5",
+      "photo" : "https://github.com/Nikthakur09/Example/blob/main/VEG4.jpg"
+		},
+		
+		{
+			"name" : "RAKESH",
+			"location": "DELHI",
+			"rating": "4",
+      "photo" : "https://github.com/Nikthakur09/Example/blob/main/VEG5.jpg"
+		}	    
+
+	]
+}
