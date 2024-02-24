@@ -1,4 +1,5 @@
-[		
+{
+	"fruits" : [		
 		{
 			"name" : "GRAPES",
 			"price": "₹60/Kg",
@@ -51,3 +52,4 @@
 			"photo": "https://github.com/Nikthakur09/Example/blob/main/clipart297216.png"
 		}	    
 ]
+}
