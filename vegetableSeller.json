@@ -1,5 +1,5 @@
-{
-"vegetableSeller": [{
+[
+	{
 			"name" : "RAJESH",
 			"location": "DELHI",
 			"rating": "4",
@@ -30,6 +30,5 @@
 			"rating": "4",
       "photo" : "https://github.com/Nikthakur09/Example/blob/main/VEG5.jpg"
 		}	    
+]
 
-	]
-}
