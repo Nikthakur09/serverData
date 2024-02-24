@@ -1,66 +1,45 @@
 {
 "vegetables": [{
-			"price": "",
-			"photo": "https://i.pinimg.com/236x/e5/de/f5/e5def55ff288d58e3c261b4ed4ee1218.jpg"
+			"name" : "SPINACH",
+			"price": "₹30/Kg",
+			"photo": "https://github.com/Nikthakur09/Example/blob/main/clipart1748127.png"
 		},
 		{
-			"price": "Shaan",
-			"photo": "https://chiloka.com/i/i/s/h/a/shaan-10.jpg"
+			"name" : "CARROT",
+			"price": "₹40/Kg",
+			"photo": "https://github.com/Nikthakur09/Example/blob/main/clipart224620.png"
 		},
 		{
-			"price": "Neha kakkar",
-			"photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Apple_Music_icon.svg/542px-Apple_Music_icon.svg.png"
+			"name" : "BRINJAL",
+			"price": "₹35"/Kg,
+			"photo": "https://github.com/Nikthakur09/Example/blob/main/clipart23269.png"
 		},
 		{
-			"price": "Daler mehndi",
-			"photo": "https://indianewengland.com/wp-content/uploads/2017/12/Daler-Mehndi.jpg"
+			"name" : "TOMATO",
+			"price": "₹30/Kg",
+			"photo": "https://github.com/Nikthakur09/Example/blob/main/clipart27775.png"
 		},
 		
 		{
-			"price": "Arijit singh",
-			"photo": "https://newsroompost.com/wp-content/uploads/2022/04/Untitled-design-126.jpg"
+			"name" : "BROCCLI",
+			"price": "₹45/Kg",
+			"photo": "https://github.com/Nikthakur09/Example/blob/main/clipart33681.png"
 		},
 		{
-			"price": "Sunidhi chauhan",
-			"photo": "https://www.filmibeat.com/img/popcorn/profile_photos/sunidhi-chauhan-20130814103926-124.jpg"
+			"name" : "GARLIC",
+			"price": "₹150/Kg",
+			"photo": "https://github.com/Nikthakur09/Example/blob/main/clipart826025.png"
 		},
                   {
-			"price": "Harry Styles",
-			"photo": "https://i2-prod.mirror.co.uk/incoming/article29665713.ece/ALTERNATES/n615/0_Los-Angeles-Premiere-Of-My-Policeman-Arrivals.jpg"
+			"name" : "POTATO",
+			"price": "₹20/Kg",
+			"photo": "https://github.com/Nikthakur09/Example/blob/main/clipart436208.png"
 		},
 		{
-			"price": "Honey singh",
-			"photo": "https://www.koimoi.com/wp-content/new-galleries/2019/04/yo-yo-honey-singh-reveals-his-best-critics-and-supporter-0001.jpg"
-		},
-		{
-			"price": "Badshah",
-			"photo": "https://www.koimoi.com/wp-content/new-galleries/2020/08/omg-rapper-badshah-grilled-for-over-9-hours-for-fake-followers-scam-to-soon-be-questioned-by-mumbai-crime-branch-001.jpg"
-		},
-		{
-			"price": "Diljit Dosanjh",
-			"photo": "https://st1.bollywoodlife.com/wp-content/uploads/2016/05/diljit-dosanjh.jpg"
-		},
-	    	{
-			"price": "Zayn malik",
-			"photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Zayn_Wiki_%28cropped%29.jpg/800px-Zayn_Wiki_%28cropped%29.jpg"
-		},
-	    	{
-			"price": "Dino james",
-			"photo": "https://www.deccanherald.com/sites/dh/files/article_images/2020/01/05/file78pprz3o0287euyml8o-1578226266.jpg"
-		},
-	    	{
-			"price": "King",
-			"photo": "https://www.partymap.in/imgprof/singer-king.jpg"
-		},
-	    	{
-			"price": "Justin Bieber",
-			"photo": "https://media.gq.com/photos/56bcb218cdf2db6945d2ef93/master/pass/bieber-coverstory-square.jpg"
-		},
-	    	{
-			"price": "Selena Gomez",
-			"photo": "https://images.mid-day.com/images/images/2022/jun/Selena-Gomez-ik_d.jpg"
-		}
-	    
+			"name" : "ONION",
+			"price": "₹30/Kg",
+			"photo": "https://github.com/Nikthakur09/Example/blob/main/clipart297216.png"
+		}	    
 
 	]
 }
