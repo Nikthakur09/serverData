@@ -1,0 +1,55 @@
+{
+"fruits": [{
+			"name" : "GRAPES",
+			"price": "₹60/Kg",
+			"photo": "https://github.com/Nikthakur09/Example/blob/main/grapes.jpg"
+		},
+		{
+			"name" : "WATERMELON",
+			"price": "₹40/Kg",
+			"photo": "https://github.com/Nikthakur09/Example/blob/main/clipart48121.png"
+		},
+		{
+			"name" : "APPLE",
+			"price": "₹35/Kg",
+			"photo": "https://github.com/Nikthakur09/Example/blob/main/clipart42531.png"
+		},
+		{
+			"name" : "KIWI",
+			"price": "₹100/Kg",
+			"photo": "https://github.com/Nikthakur09/Example/blob/main/clipart39959.png"
+		},
+		
+		{
+			"name" : "BANANA",
+			"price": "₹45/DOZEN",
+			"photo": "https://github.com/Nikthakur09/Example/blob/main/clipart230014.png"
+		},
+		{
+			"name" : "PEAR",
+			"price": "₹60/Kg",
+			"photo": "https://github.com/Nikthakur09/Example/blob/main/clipart22844.png"
+		},
+    {
+			"name" : "GUAVA",
+			"price": "₹50/Kg",
+			"photo": "https://github.com/Nikthakur09/Example/blob/main/clipart22416.png"
+		  },
+    {
+			"name" : "ORANGE",
+			"price": "₹40/Kg",
+			"photo": "https://github.com/Nikthakur09/Example/blob/main/clipart22067.png"
+		  },
+    {
+			"name" : "Lychee",
+			"price": "₹80/Kg",
+			"photo": "https://github.com/Nikthakur09/Example/blob/main/clipart22698.png"
+		},
+		{
+			"name" : "ONION",
+			"price": "₹30/Kg",
+			"photo": "https://github.com/Nikthakur09/Example/blob/main/clipart297216.png"
+		}	    
+
+	]
+}
