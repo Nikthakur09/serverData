@@ -1,1 +1,35 @@
+{
+"fruitsSeller": [{
+			"name" : "RAM NATH",
+			"location": "DELHI",
+			"rating": "4",
+      "photo" : "https://github.com/Nikthakur09/Example/blob/main/fru1.jpg"
+		},
+		{
+			"name" : "HARI OM",
+			"location": "DELHI",
+			"rating": "3",
+      "photo" : "https://github.com/Nikthakur09/Example/blob/main/fru2.jpg"
+		},
+		{
+			"name" : "RAMESH",
+			"location": "GHAZIABAD",
+			"rating": "3",
+      "photo" : "https://github.com/Nikthakur09/Example/blob/main/fru3.jpg"
+		},
+		{
+			"name" : "RAJ",
+			"location": "GHAZIABAD",
+			"rating": "5",
+      "photo" : "https://github.com/Nikthakur09/Example/blob/main/fru4.jpg"
+		},
+		
+		{
+			"name" : "RAKESH",
+			"location": "DELHI",
+			"rating": "4",
+      "photo" : "https://github.com/Nikthakur09/Example/blob/main/fru5.jpg"
+		}	    
 
+	]
+}
